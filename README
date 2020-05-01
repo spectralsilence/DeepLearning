@@ -1,0 +1,9 @@
+This repo contains the code and data for Team 7's Deep Learning Final Project
+
+Requirements for the environment are listed in JamesNLPRequirements.txt
+
+The notebooks folder contains the code for the project, as well as in line explanations. 
+
+The data folder contains the data we prepared. This combines the dataset from kaggle (https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset) with images we scraped from imdb. Additionally, we extracted only the relevant information from the kaggle page and restricted entries to those with both text and picture data.
+
+The writeup attached to Canvas provides more detail. 
