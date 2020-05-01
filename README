@@ -6,4 +6,6 @@ The notebooks folder contains the code for the project, as well as in line expla
 
 The data folder contains the data we prepared. This combines the dataset from kaggle (https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset) with images we scraped from imdb. Additionally, we extracted only the relevant information from the kaggle page and restricted entries to those with both text and picture data.
 
+The image file is too big to upload here. It is on our canvas team page at Team Project Group 7 > files > FullImages.zip
+
 The writeup attached to Canvas provides more detail. 
